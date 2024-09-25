@@ -21,4 +21,4 @@ This project is a WebSocket server that acts as a proxy between a WebSocket clie
 ## How to test
 0. create .env and setting WS_CLIENT.
 1. Use command "node server.js" to run server.
-2. Setting WS_SERVER, RTSP_URL after that run command "npm rtsp.js" to send Buffer ffmpeg to client pass serveer.
+2. Setting WS_SERVER, RTSP_URL after that run command "node rtsp.js" to send Buffer ffmpeg to client pass serveer.
