@@ -4,7 +4,7 @@ This project is a WebSocket server that acts as a proxy between a WebSocket clie
 
 ## Features
 - WebSocket server running on a specified port.
-- Establishes connection between a client WebSocket (A) and another WebSocket server (C).
+- Establishes connection between a client WebSocket and another WebSocket server.
 - Forwards messages from the client to the WebSocket server.
 
 ## Prerequisites
